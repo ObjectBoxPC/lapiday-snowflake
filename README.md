@@ -4,9 +4,11 @@ This program generates snowflakes using a fractal model. Snowflakes can be rende
 
 More information is at <http://philipchungtech.tk/pi-day-2015.html>.
 
+This program is free and open-source under the 3-clause BSD license (refer to `LICENSE.txt` for details).
+
 ## Compiling
 
-This program requires [SFML](http://sfml-dev.org/), version 2.0 or later. You will have to link against the *Graphics*, *Window*, and *System* modules (in that order).
+The program requires [SFML](http://sfml-dev.org/), version 2.0 or later. You will have to link against the *Graphics*, *Window*, and *System* modules (in that order).
 
 Suggested build line (for GCC/MinGW):
 
