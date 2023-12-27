@@ -2,7 +2,7 @@
 
 This program generates snowflakes using a fractal model. Snowflakes can be rendered to screen or an image file, and parameters can be varied.
 
-More information is at <http://philipchungtech.tk/pi-day-2015.html>.
+More information is at <https://objectboxpc.name/pi-day-2015.html>.
 
 This program is free and open-source under the 3-clause BSD license (refer to `LICENSE.txt` for details).
 

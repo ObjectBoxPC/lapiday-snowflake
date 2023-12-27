@@ -1,4 +1,4 @@
-Copyright (c) 2015 Philip Chung and Colin Bloomfield <http://bitbucket.org/philipchungtech/lapiday-snowflake>
+Copyright (c) 2015 Philip Chung and Colin Bloomfield <https://github.com/ObjectBoxPC/lapiday-snowflake>
 
 All rights reserved.
 
