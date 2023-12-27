@@ -8,7 +8,7 @@ This program is free and open-source under the 3-clause BSD license (refer to `L
 
 ## Compiling
 
-The program requires [SFML](http://sfml-dev.org/), version 2.0 or later. You will have to link against the *Graphics*, *Window*, and *System* modules (in that order).
+The program requires [SFML](https://www.sfml-dev.org/), version 2.0 or later. You will have to link against the *Graphics*, *Window*, and *System* modules (in that order).
 
 Suggested build line (for GCC/MinGW):
 
